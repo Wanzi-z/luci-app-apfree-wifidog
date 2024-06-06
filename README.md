@@ -22,8 +22,13 @@
 
 1. 复制仓库中的文件到如下目录，并执行安装
 
+复制项目代码到目录
 ```
 feeds/luci/applications/luci-app-apfree-wifidog/
+```
+
+集成项目到luci中
+```
 ./scripts/feeds install luci -a
 ```
 
@@ -48,3 +53,18 @@ make package/luci-app-apfree-wifidog/compile
 ## 联系方式
 
 QQ群：331230369 
+
+## 如何支持我的开源项目？
+
+如果你觉得我的项目对你有帮助，或者你也认同开源精神，欢迎通过以下方式支持我：
+
+1. **Star和Fork项目**：在GitHub上给我的项目加星和Fork。
+2. **提出反馈和建议**：通过提交issue或pull request来帮助改进项目。
+3. **打赏支持**：通过支付宝或者微信打赏我，帮助我投入更多时间和资源进行开发。
+
+<p align="center">
+  <img src="https://github.com/liudf0716/apfree-wifidog/assets/1182593/4f95e99f-c25b-43d6-ba49-f190cb9c9c30" alt="支付宝打赏" width="150" />
+</p>
+<p align="center">
+  <img src="https://github.com/liudf0716/apfree-wifidog/assets/1182593/0754800e-2875-475d-b4c1-dea925df6fff" alt="微信打赏" width="150"/>
+</p>
