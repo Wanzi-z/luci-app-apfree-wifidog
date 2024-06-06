@@ -6,9 +6,17 @@
 
 <div align="center">
 <a href="https://www.bilibili.com/video/BV18m411d7Yj/?vd_source=b303f6e8e0ed18809d8752d41ab1de7d">
-	<img width="972" alt="luci-app-apfree-wifidog_intro_video" src="luci-app-apfree-wifidog_intro.png">
+	<img width="800" alt="luci-app-apfree-wifidog_intro_video" src="https://github.com/liudf0716/luci-app-apfree-wifidog/assets/1182593/ce883a3e-bc11-432d-a91c-8f759ffc65b9">
 </a>
 </div>
+
+### 界面效果
+
+![image](https://github.com/liudf0716/luci-app-apfree-wifidog/assets/1182593/447c1642-9166-4189-af9c-e2c78340c551)
+
+![image](https://github.com/liudf0716/luci-app-apfree-wifidog/assets/1182593/4268dd2b-d53e-4062-bb25-9267b7794ecc)
+
+![image](https://github.com/liudf0716/luci-app-apfree-wifidog/assets/1182593/0b37e335-e620-4faa-b20b-66fc16baff47)
 
 ## 如何集成到openwrt中编译
 
